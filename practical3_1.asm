@@ -1,4 +1,4 @@
-;Practical 3 - Write the 8085 program to perform all the logical operations.
+;Practical 3_1 - Write the 8085 program to perform all the logical operations.
 
 MVI A,06h;
 MVI B,03h;
